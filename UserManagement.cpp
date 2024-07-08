@@ -1,3 +1,4 @@
+//This file is a console project file.
 #include <iostream>
 #include "UserManager.h"
 
