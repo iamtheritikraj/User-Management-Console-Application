@@ -1,3 +1,4 @@
+//This file is a dll project file.
 #ifndef USER_MANAGER_H
 #define USER_MANAGER_H
 
